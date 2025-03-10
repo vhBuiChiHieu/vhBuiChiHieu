@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <circle cx="250" cy="250" r="240" fill="#f5f5f5"/>
+  <g transform="translate(100, 80) scale(0.6)">
+    <!-- Face shape -->
+    <ellipse cx="250" cy="220" rx="180" ry="200" fill="#000" />
+    
+    <!-- Eyes -->
+    <circle cx="180" cy="170" r="20" fill="#fff" />
+    <circle cx="320" cy="170" r="20" fill="#fff" />
+    
+    <!-- Eyebrows -->
+    <line x1="150" y1="140" x2="210" y2="140" stroke="#fff" stroke-width="5" />
+    <line x1="290" y1="140" x2="350" y2="140" stroke="#fff" stroke-width="5" />
+    
+    <!-- Mouth -->
+    <path d="M180,250 Q250,310 320,250" fill="none" stroke="#fff" stroke-width="5" />
+    
+    <!-- Shirt collar -->
+    <path d="M100,400 H400 V500 H100 Z" fill="#333" />
+    <path d="M220,400 L250,450 L280,400" fill="none" stroke="#fff" stroke-width="5" />
+    
+    <!-- Hair -->
+    <path d="M70,220 C70,100 150,50 250,50 C350,50 430,100 430,220 C430,150 380,80 250,80 C120,80 70,150 70,220 Z" fill="#000" />
+  </g>
+</svg> 
