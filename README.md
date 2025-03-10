@@ -1,16 +1,18 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Bui Chi Hieu
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" class="wave"/> Hi there, I'm Bui Chi Hieu
 
 > *"Scalable — reliable and efficient — is my code."*
 
 I'm a **Backend Developer** specializing in **Java**, **JavaScript** and **Go** with experience building efficient, robust and highly scalable systems 🚀
 
-## 💡 What I Do
-
-- 🏗️ **System Architecture**: Designing scalable, resilient and high-performance backend systems
-- 🔄 **Microservice Expert**: Building distributed systems with modern technologies
-- ✨ **Clean Code**: Writing optimized, maintainable code with SOLID principles
+- Built microservice architectures with Java Spring Boot
+- Developed event-driven systems using Kafka
+- Containerized applications with Docker for seamless deployment
+- Implemented cloud-native solutions on AWS
+- Created interactive user interfaces with Angular animations
 
 ## 🛠️ Tech Stack & Tools
+
+> *Clean architecture and modern technologies power my solutions*
 
 <p align="left">
 <img src="imgs/java.svg" alt="Java" width="40" height="40"/>
@@ -22,6 +24,9 @@ I'm a **Backend Developer** specializing in **Java**, **JavaScript** and **Go** 
 <img src="imgs/aws.svg" alt="AWS" width="40" height="40"/>
 <img src="imgs/git.svg" alt="Git" width="40" height="40"/>
 </p>
+
+
+> *Status*
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vhBuiChiHieu&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
@@ -36,6 +41,26 @@ I'm a **Backend Developer** specializing in **Java**, **JavaScript** and **Go** 
 <a href="https://facebook.com/vhBchieu" target="_blank"><img src="imgs/facebook.svg" alt="Facebook" width="40" height="40"/></a>
 </p>
 
+```
+"I believe that good software is not just about working code,
+but also about well-designed, scalable, and maintainable systems.
+
+I always strive to build robust backend systems
+capable of handling high traffic and complex data."
+```
+
+<div align="center">
+  <p>
+    <strong>Scalable</strong>
+    <span> — </span>
+    <strong>reliable</strong>
+    <span> and </span>
+    <strong>efficient</strong>
+    <span> — </span>
+    <strong>is my code.</strong>
+  </p>
+</div>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vhBuiChiHieu&style=flat-square&color=blue" alt="Profile views"/>
 </p>
@@ -43,3 +68,5 @@ I'm a **Backend Developer** specializing in **Java**, **JavaScript** and **Go** 
 <p align="center">
 ⭐️ From <a href="https://github.com/vhBuiChiHieu">vhBuiChiHieu</a>
 </p>
+
+<!-- Portfolio website built with Angular featuring smooth animations and responsive design -->
