@@ -23,6 +23,7 @@ I'm a **Backend Developer** specializing in **Java**, **JavaScript** and **Go** 
 <img src="imgs/kafka.svg" alt="Kafka" width="40" height="40"/>
 <img src="imgs/aws.svg" alt="AWS" width="40" height="40"/>
 <img src="imgs/git.svg" alt="Git" width="40" height="40"/>
+<img src="imgs/mysql.svg" alt="Mysql" width="40" height="40"/>
 </p>
 
 
