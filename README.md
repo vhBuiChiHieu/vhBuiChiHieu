@@ -14,16 +14,17 @@ I'm a **Backend Developer** specializing in **Java**, **JavaScript** and **Go** 
 
 > *Clean architecture and modern technologies power my solutions*
 
-<p align="left">
-<img src="imgs/java.svg" alt="Java" width="40" height="40"/>
-<img src="imgs/spring.svg" alt="Spring" width="40" height="40"/>
-<img src="imgs/javascript.svg" alt="JavaScript" width="40" height="40"/>
-<img src="imgs/golang.svg" alt="Golang" width="40" height="40"/>
-<img src="imgs/docker.svg" alt="Docker" width="40" height="40"/>
-<img src="imgs/kafka.svg" alt="Kafka" width="40" height="40"/>
-<img src="imgs/aws.svg" alt="AWS" width="40" height="40"/>
-<img src="imgs/git.svg" alt="Git" width="40" height="40"/>
-<img src="imgs/mysql.svg" alt="Mysql" width="40" height="40"/>
+<<p align="left">
+  <img src="imgs/java.svg" alt="Java" width="40" height="40"/>
+  <img src="imgs/spring.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="imgs/typescript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="imgs/nestjs.svg" alt="NestJS" width="40" height="40"/>
+  <img src="imgs/golang.svg" alt="Golang" width="40" height="40"/>
+  <img src="imgs/rabbitmq.svg" alt="RabbitMQ" width="40" height="40"/>
+  <img src="imgs/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="imgs/aws.svg" alt="AWS" width="40" height="40"/>
+  <img src="imgs/git.svg" alt="Git" width="40" height="40"/>
+  <img src="imgs/mysql.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 
