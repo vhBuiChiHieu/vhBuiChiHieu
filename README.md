@@ -14,17 +14,18 @@ I'm a **Backend Developer** specializing in **Java**, **JavaScript** and **Go** 
 
 > *Clean architecture and modern technologies power my solutions*
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-<img src="https://www.rabbitmq.com/img/logo/rabbitmq-logo.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
+<p align="left">
+  <img src="imgs/java.svg" alt="Java" width="40" height="40"/>
+  <img src="imgs/spring.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/373872/nestjs.svg" alt="NestJS" width="40" height="40"/>
+  <img src="imgs/golang.svg" alt="Golang" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
+  <img src="imgs/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="imgs/aws.svg" alt="AWS" width="40" height="40"/>
+  <img src="imgs/git.svg" alt="Git" width="40" height="40"/>
+  <img src="imgs/mysql.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
 > *Status*
 
